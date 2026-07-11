@@ -334,6 +334,12 @@ h1 {{ font-size:1.9rem; margin:0 0 .25rem; }}
 .badge.mobile {{ background:var(--badge-mobile); }}
 .rate {{ font-weight:600; }}
 p.summary {{ margin:.4rem 0 0; font-size:.95rem; }}
+.subscribe {{ background:var(--card); border:1px solid var(--border); border-radius:10px; padding:1.25rem; margin:0 0 2rem; }}
+.subscribe h2 {{ font-size:1.05rem; margin:0 0 .35rem; }}
+.subscribe p {{ margin:0 0 .75rem; font-size:.9rem; color:var(--muted); }}
+.subscribe form {{ display:flex; gap:.5rem; flex-wrap:wrap; }}
+.subscribe input[type=email] {{ flex:1 1 220px; padding:.55rem .75rem; font-size:1rem; border:1px solid var(--border); border-radius:8px; background:var(--bg); color:var(--text); }}
+.subscribe button {{ padding:.55rem 1.1rem; font-size:1rem; font-weight:600; border:0; border-radius:8px; background:var(--accent); color:#fff; cursor:pointer; }}
 footer {{ margin-top:3rem; font-size:.85rem; color:var(--muted); }}
 footer a {{ color:var(--accent); }}
 </style>
@@ -342,6 +348,14 @@ footer a {{ color:var(--accent); }}
 <main>
 <h1>iOS Contract Digest</h1>
 <p class="sub">Contract &amp; freelance gigs for iOS and mobile developers — aggregated daily from Hacker News, RemoteOK, WeWorkRemotely, Remotive and Reddit. No full-time-only listings, no self-ads.</p>
+<div class="subscribe">
+<h2>One concise email per week</h2>
+<p>Every Friday: the week's new contract &amp; freelance gigs for iOS/mobile devs. No spam, unsubscribe anytime.</p>
+<form action="https://buttondown.com/api/emails/embed-subscribe/ios-contract-digest" method="post" target="_blank">
+<input type="email" name="email" placeholder="you@example.com" required>
+<button type="submit">Subscribe</button>
+</form>
+</div>
 {jobs}
 <footer>Last updated: {updated} UTC · {count} open listing(s) ·
 Built with a small open pipeline — <a href="https://github.com/csabahegedus/job-aggregator">source on GitHub</a>.</footer>
