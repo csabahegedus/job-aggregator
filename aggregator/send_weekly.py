@@ -85,7 +85,12 @@ def main():
         sys.exit("BUTTONDOWN_API_KEY is not set")
     r = requests.post(
         API_URL,
-        headers={"Authorization": f"Token {api_key}"},
+        headers={
+            "Authorization": f"Token {api_key}",
+            # Buttondown safety check: confirms live sending is intended
+            # (required once per API key, harmless afterwards)
+            "X-Buttondown-Live-Dangerously": "true",
+        },
         json={"subject": subject, "body": body, "status": "about_to_send"},
         timeout=30,
     )
