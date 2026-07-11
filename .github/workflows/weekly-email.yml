@@ -1,0 +1,30 @@
+name: Weekly digest email
+
+on:
+  schedule:
+    - cron: "0 14 * * 5" # péntek 14:00 UTC (16:00 CEST)
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Dry run (csak kiírja a levelet, nem küld)"
+        type: boolean
+        default: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Send weekly digest
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python3 aggregator/send_weekly.py --dry-run
+          else
+            python3 aggregator/send_weekly.py
+          fi
