@@ -44,5 +44,6 @@ Ha a repo felkerül GitHubra, a `.github/workflows/aggregate.yml` (lásd a repo 
 ## Következő lépések (terv szerint)
 
 - [x] további forrás (Remotive) + Reddit-retry
-- [ ] 2. hét: statikus oldal + heti e-mail digest (Buttondown/Resend)
+- [x] statikus oldal (docs/index.html → GitHub Pages, main/docs)
+- [ ] 2. hét folyt.: heti e-mail digest (Buttondown/Resend)
 - [ ] 3. hét: validálás (Show HN, r/iOSProgramming, iOS Dev Weekly)
