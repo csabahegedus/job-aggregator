@@ -1,0 +1,30 @@
+name: Daily job aggregation
+
+on:
+  schedule:
+    - cron: "30 6 * * *" # naponta 06:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  aggregate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests anthropic
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python3 aggregator/pipeline.py
+      - name: Commit updated digest
+        run: |
+          git config user.name "aggregator-bot"
+          git config user.email "actions@github.com"
+          git add aggregator/jobs.db aggregator/digest.md docs/index.html
+          git diff --cached --quiet || git commit -m "chore: daily job digest $(date -u +%F)"
+          git push
