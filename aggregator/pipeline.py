@@ -324,13 +324,16 @@ def make_llm_classifier():
             "is_mobile": {"type": "boolean",
                           "description": "True if the role is primarily mobile app development (native iOS, React Native, or Flutter)"},
             "is_native_ios": {"type": "boolean"},
+            "platform": {"type": "string",
+                         "enum": ["ios", "android", "cross-platform", "web", "backend", "other"],
+                         "description": "Primary platform of the role (cross-platform = React Native/Flutter/KMP)"},
             "is_contract_or_freelance": {"type": "boolean",
                                          "description": "True only for contract/freelance/part-time engagements, not permanent full-time roles"},
             "remote": {"type": "boolean"},
             "rate_or_budget": {"type": ["string", "null"]},
             "summary": {"type": "string"},
         },
-        "required": ["is_mobile", "is_native_ios", "is_contract_or_freelance", "remote", "rate_or_budget", "summary"],
+        "required": ["is_mobile", "is_native_ios", "platform", "is_contract_or_freelance", "remote", "rate_or_budget", "summary"],
         "additionalProperties": False,
     }
 
