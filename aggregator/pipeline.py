@@ -2,7 +2,8 @@
 """iOS contract/freelance job aggregator — fetch, filter, classify, store.
 
 Sources: HN "Who is hiring?" + "Freelancer? Seeking freelancer?" (Algolia API),
-RemoteOK (JSON API), WeWorkRemotely (RSS), Reddit (JSON endpoints).
+RemoteOK, Remotive, Jobicy, Arbeitnow, Working Nomads (JSON APIs),
+WeWorkRemotely (RSS), Reddit (RSS).
 
 Classification: keyword heuristic by default; if ANTHROPIC_API_KEY is set and
 the `anthropic` package is installed, borderline items are classified with
@@ -174,6 +175,82 @@ def fetch_remotive():
     return jobs
 
 
+def fetch_jobicy():
+    try:
+        r = requests.get("https://jobicy.com/api/v2/remote-jobs",
+                         params={"count": 50, "tag": "ios"},
+                         headers=UA, timeout=30)
+        r.raise_for_status()
+        items = r.json().get("jobs", [])
+    except (requests.RequestException, ValueError) as e:
+        print(f"[warn] Jobicy fetch failed: {e}", file=sys.stderr)
+        return []
+    jobs = []
+    for it in items:
+        text = html.unescape(re.sub(r"<[^>]+>", " ", it.get("jobDescription") or ""))
+        job_type = ", ".join(it.get("jobType") or [])
+        jobs.append({
+            "id": f"jobicy-{it['id']}",
+            "source": "Jobicy",
+            "title": f"{it.get('jobTitle', '')} @ {it.get('companyName', '')}".strip(" @"),
+            "url": it.get("url", ""),
+            "posted_at": it.get("pubDate", ""),
+            "text": f"job_type: {job_type}. geo: {it.get('jobGeo', '')}. " + text[:4000],
+        })
+    return jobs
+
+
+def fetch_arbeitnow():
+    # EU-focused board; free JSON API, newest ~100 postings per call
+    try:
+        r = requests.get("https://www.arbeitnow.com/api/job-board-api", headers=UA, timeout=30)
+        r.raise_for_status()
+        items = r.json().get("data", [])
+    except (requests.RequestException, ValueError) as e:
+        print(f"[warn] Arbeitnow fetch failed: {e}", file=sys.stderr)
+        return []
+    jobs = []
+    for it in items:
+        text = html.unescape(re.sub(r"<[^>]+>", " ", it.get("description") or ""))
+        created = it.get("created_at")
+        posted = (datetime.fromtimestamp(created, tz=timezone.utc).isoformat()
+                  if isinstance(created, (int, float)) else "")
+        jobs.append({
+            "id": f"arbeitnow-{it['slug']}",
+            "source": "Arbeitnow",
+            "title": f"{it.get('title', '')} @ {it.get('company_name', '')}".strip(" @"),
+            "url": it.get("url", ""),
+            "posted_at": posted,
+            "text": (f"job_types: {', '.join(it.get('job_types') or [])}. "
+                     f"location: {it.get('location', '')}. "
+                     + " ".join(it.get("tags") or []) + " " + text[:4000]),
+        })
+    return jobs
+
+
+def fetch_workingnomads():
+    try:
+        r = requests.get("https://www.workingnomads.com/api/exposed_jobs/", headers=UA, timeout=30)
+        r.raise_for_status()
+        items = r.json()
+    except (requests.RequestException, ValueError) as e:
+        print(f"[warn] Working Nomads fetch failed: {e}", file=sys.stderr)
+        return []
+    jobs = []
+    for it in items:
+        url = it.get("url", "")
+        text = html.unescape(re.sub(r"<[^>]+>", " ", it.get("description") or ""))
+        jobs.append({
+            "id": f"wnomads-{url.rstrip('/').rsplit('/', 1)[-1]}",
+            "source": "Working Nomads",
+            "title": f"{it.get('title', '')} @ {it.get('company_name', '')}".strip(" @"),
+            "url": url,
+            "posted_at": it.get("pub_date", ""),
+            "text": f"{it.get('tags', '')} {it.get('location', '')} " + text[:4000],
+        })
+    return jobs
+
+
 def fetch_reddit():
     # The JSON endpoints 403 unauthenticated clients; the RSS feeds still work.
     jobs = []
@@ -263,6 +340,9 @@ def make_llm_classifier():
             max_tokens=512,
             system="You classify job postings for a senior native iOS developer "
                    "(Swift, SwiftUI, UIKit, Combine) looking for contract/freelance work. "
+                   "Only software development roles count as mobile: set is_mobile to "
+                   "false for roles that merely involve using or testing a mobile app "
+                   "(crowd testers, drivers, support, marketing, QA-by-users). "
                    "Posts where a freelancer advertises their own services (e.g. titled "
                    "'[FOR HIRE]' or 'SEEKING WORK') are NOT opportunities: set "
                    "is_contract_or_freelance to false for those.",
@@ -313,7 +393,7 @@ SITE_TEMPLATE = """<!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>iOS Contract Digest</title>
-<meta name="description" content="Curated contract and freelance gigs for iOS and mobile developers, aggregated daily from HN, RemoteOK, WeWorkRemotely, Remotive and Reddit.">
+<meta name="description" content="Curated contract and freelance gigs for iOS and mobile developers, aggregated daily from HN, RemoteOK, WeWorkRemotely, Remotive, Jobicy, Arbeitnow, Working Nomads and Reddit.">
 <style>
 :root {{ --bg:#faf9f7; --card:#fff; --text:#1f2328; --muted:#6a6f76; --accent:#0a66c2; --badge-ios:#0a66c2; --badge-mobile:#6a6f76; --border:#e4e2de; }}
 @media (prefers-color-scheme: dark) {{
@@ -347,7 +427,7 @@ footer a {{ color:var(--accent); }}
 <body>
 <main>
 <h1>iOS Contract Digest</h1>
-<p class="sub">Contract &amp; freelance gigs for iOS and mobile developers — aggregated daily from Hacker News, RemoteOK, WeWorkRemotely, Remotive and Reddit. No full-time-only listings, no self-ads.</p>
+<p class="sub">Contract &amp; freelance gigs for iOS and mobile developers — aggregated daily from Hacker News, RemoteOK, WeWorkRemotely, Remotive, Jobicy, Arbeitnow, Working Nomads and Reddit. No full-time-only listings, no self-ads.</p>
 <div class="subscribe">
 <h2>One concise email per week</h2>
 <p>Every Friday: the week's new contract &amp; freelance gigs for iOS/mobile devs. No spam, unsubscribe anytime.</p>
@@ -408,6 +488,8 @@ def main():
     all_jobs = []
     for name, fn in (("HN", fetch_hn), ("RemoteOK", fetch_remoteok),
                      ("WWR", fetch_wwr), ("Remotive", fetch_remotive),
+                     ("Jobicy", fetch_jobicy), ("Arbeitnow", fetch_arbeitnow),
+                     ("Working Nomads", fetch_workingnomads),
                      ("Reddit", fetch_reddit)):
         jobs = fn()
         print(f"{name}: {len(jobs)} postings fetched")

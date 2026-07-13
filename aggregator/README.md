@@ -20,6 +20,9 @@ Függőség: Python 3 + `requests`. Kimenet: `jobs.db` (SQLite), `digest.md` (to
 | RemoteOK | publikus JSON API | |
 | WeWorkRemotely | RSS (programming + full-stack kategória) | |
 | Remotive | publikus JSON API (software-dev kategória) | a strukturált `job_type` mező bekerül a szűrendő szövegbe |
+| Jobicy | publikus JSON API (`tag=ios`) | a `jobType` és `jobGeo` mezők bekerülnek a szűrendő szövegbe |
+| Arbeitnow | publikus JSON API | EU-fókuszú board; a `job_types` (pl. `Contract`) és `location` bekerül a szövegbe |
+| Working Nomads | publikus JSON API | a legutóbbi ~30 posztot adja, a napi futásokkal gyűlik |
 | Reddit (r/iOSProgramming, r/forhire, r/jobbit) | RSS | erős rate-limit; 429-re 3x retry backoff-fal + 10 mp szünet a subok között |
 
 Az iOS Dev Jobs (Dave Verwer) sajnos nem forrás: e-mail/app-alapú lett, nincs publikus feedje.
@@ -45,5 +48,6 @@ Ha a repo felkerül GitHubra, a `.github/workflows/aggregate.yml` (lásd a repo 
 
 - [x] további forrás (Remotive) + Reddit-retry
 - [x] statikus oldal (docs/index.html → GitHub Pages, main/docs)
-- [ ] 2. hét folyt.: heti e-mail digest (Buttondown/Resend)
+- [x] 2. hét folyt.: heti e-mail digest (Buttondown, pénteki workflow)
+- [x] további források: Jobicy, Arbeitnow, Working Nomads
 - [ ] 3. hét: validálás (Show HN, r/iOSProgramming, iOS Dev Weekly)
