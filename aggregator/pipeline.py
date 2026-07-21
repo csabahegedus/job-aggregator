@@ -414,11 +414,31 @@ def open_db():
     return con
 
 
-def write_digest(con):
+# Keep any single source (notably the high-volume Freelancer.com marketplace)
+# from swamping the list — cap how many of its newest matches are shown.
+PER_SOURCE_CAP = 8
+
+
+def select_matches(con, total_limit):
+    """Newest mobile+contract matches, capped at PER_SOURCE_CAP per source."""
     rows = con.execute(
         "SELECT source, title, url, posted_at, llm_json FROM jobs "
-        "WHERE is_mobile=1 AND is_contract=1 ORDER BY posted_at DESC LIMIT 50"
+        "WHERE is_mobile=1 AND is_contract=1 ORDER BY posted_at DESC"
     ).fetchall()
+    kept, per_source = [], {}
+    for row in rows:
+        source = row[0]
+        if per_source.get(source, 0) >= PER_SOURCE_CAP:
+            continue
+        per_source[source] = per_source.get(source, 0) + 1
+        kept.append(row)
+        if len(kept) >= total_limit:
+            break
+    return kept
+
+
+def write_digest(con):
+    rows = select_matches(con, total_limit=50)
     lines = [f"# iOS contract digest — {datetime.now().strftime('%Y-%m-%d %H:%M')}",
              "", f"{len(rows)} matching posting(s) (mobile + contract/freelance):", ""]
     for source, title, url, posted_at, llm_json in rows:
@@ -492,10 +512,7 @@ Built with a small open pipeline — <a href="https://github.com/csabahegedus/jo
 
 
 def write_site(con):
-    rows = con.execute(
-        "SELECT source, title, url, posted_at, llm_json FROM jobs "
-        "WHERE is_mobile=1 AND is_contract=1 ORDER BY posted_at DESC LIMIT 100"
-    ).fetchall()
+    rows = select_matches(con, total_limit=100)
     cards = []
     for source, title, url, posted_at, llm_json in rows:
         meta = json.loads(llm_json) if llm_json else {}
