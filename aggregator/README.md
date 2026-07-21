@@ -20,6 +20,7 @@ Függőség: Python 3 + `requests`. Kimenet: `jobs.db` (SQLite), `digest.md` (to
 | RemoteOK | publikus JSON API | |
 | WeWorkRemotely | RSS (programming + full-stack kategória) | |
 | Remotive | publikus JSON API (software-dev kategória) | a strukturált `job_type` mező bekerül a szűrendő szövegbe |
+| Freelancer.com | publikus `projects/active` API (query=iOS/React Native/mobile app) | valódi freelance-projekt marketplace (nem állásbörze); minden találat contract, budgettel; sok az alacsony budgetes zaj, ezt az LLM + olvasó szűri |
 | Jobicy | publikus JSON API (`tag=ios`) | a `jobType` és `jobGeo` mezők bekerülnek a szűrendő szövegbe |
 | Arbeitnow | publikus JSON API | EU-fókuszú board; a `job_types` (pl. `Contract`) és `location` bekerül a szövegbe |
 | Working Nomads | publikus JSON API | a legutóbbi ~30 posztot adja, a napi futásokkal gyűlik |

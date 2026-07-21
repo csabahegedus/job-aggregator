@@ -2,7 +2,7 @@
 """iOS contract/freelance job aggregator — fetch, filter, classify, store.
 
 Sources: HN "Who is hiring?" + "Freelancer? Seeking freelancer?" (Algolia API),
-RemoteOK, Remotive, Jobicy, Arbeitnow, Working Nomads (JSON APIs),
+RemoteOK, Remotive, Freelancer.com, Jobicy, Arbeitnow, Working Nomads (JSON APIs),
 WeWorkRemotely (RSS), Reddit (RSS).
 
 Classification: keyword heuristic by default; if ANTHROPIC_API_KEY is set and
@@ -172,6 +172,49 @@ def fetch_remotive():
             # prepend the structured job_type so the contract keywords can see it
             "text": f"job_type: {job_type}. " + " ".join(it.get("tags", [])) + " " + text[:4000],
         })
+    return jobs
+
+
+def fetch_freelancer():
+    """Freelancer.com active projects — an actual freelance-gig marketplace, not a
+    job board. Every result is a contract engagement; the LLM gates mobile relevance."""
+    seen, jobs = set(), []
+    for query in ("iOS", "React Native", "mobile app"):
+        try:
+            r = requests.get(
+                "https://www.freelancer.com/api/projects/0.1/projects/active/",
+                params={"query": query, "limit": 50, "job_details": "true", "compact": "true"},
+                headers=UA, timeout=30,
+            )
+            r.raise_for_status()
+            projects = r.json().get("result", {}).get("projects", [])
+        except (requests.RequestException, ValueError) as e:
+            print(f"[warn] Freelancer.com fetch failed ({query}): {e}", file=sys.stderr)
+            continue
+        for p in projects:
+            pid = p.get("id")
+            if pid in seen:
+                continue
+            seen.add(pid)
+            skills = ", ".join(j.get("name", "") for j in (p.get("jobs") or []))
+            budget = p.get("budget") or {}
+            cur = (p.get("currency") or {}).get("code", "")
+            lo, hi = budget.get("minimum"), budget.get("maximum")
+            budget_str = f"{lo}-{hi} {cur}".strip() if lo or hi else ""
+            submitted = p.get("time_submitted")
+            posted = (datetime.fromtimestamp(submitted, tz=timezone.utc).isoformat()
+                      if isinstance(submitted, (int, float)) else "")
+            desc = html.unescape(re.sub(r"<[^>]+>", " ", p.get("preview_description") or ""))
+            jobs.append({
+                "id": f"freelancer-{pid}",
+                "source": "Freelancer.com",
+                "title": (p.get("title") or "")[:120],
+                "url": f"https://www.freelancer.com/projects/{p.get('seo_url', '')}",
+                "posted_at": posted,
+                "text": (f"job_type: freelance project ({p.get('type', '')}). "
+                         f"budget: {budget_str}. skills: {skills}. " + desc[:4000]),
+            })
+        time.sleep(2)  # avoid the endpoint's aggressive rate limit
     return jobs
 
 
@@ -491,6 +534,7 @@ def main():
     all_jobs = []
     for name, fn in (("HN", fetch_hn), ("RemoteOK", fetch_remoteok),
                      ("WWR", fetch_wwr), ("Remotive", fetch_remotive),
+                     ("Freelancer.com", fetch_freelancer),
                      ("Jobicy", fetch_jobicy), ("Arbeitnow", fetch_arbeitnow),
                      ("Working Nomads", fetch_workingnomads),
                      ("Reddit", fetch_reddit)):
