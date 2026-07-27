@@ -19,6 +19,8 @@ from pathlib import Path
 
 import requests
 
+from pipeline import PER_SOURCE_CAP
+
 BASE_DIR = Path(__file__).resolve().parent
 DB_PATH = BASE_DIR / "jobs.db"
 SITE_URL = "https://csabahegedus.github.io/job-aggregator/"
@@ -28,12 +30,22 @@ API_URL = "https://api.buttondown.com/v1/emails"
 def collect_week():
     con = sqlite3.connect(DB_PATH)
     cutoff = (datetime.now(timezone.utc) - timedelta(days=7)).isoformat()
-    return con.execute(
+    rows = con.execute(
         "SELECT source, title, url, llm_json FROM jobs "
         "WHERE is_mobile=1 AND is_contract=1 AND first_seen >= ? "
         "ORDER BY posted_at DESC",
         (cutoff,),
     ).fetchall()
+    # same per-source cap as the site: high-volume marketplaces (Freelancer.com)
+    # must not swamp the email
+    kept, per_source = [], {}
+    for row in rows:
+        source = row[0]
+        if per_source.get(source, 0) >= PER_SOURCE_CAP:
+            continue
+        per_source[source] = per_source.get(source, 0) + 1
+        kept.append(row)
+    return kept
 
 
 def compose(rows):
@@ -58,7 +70,8 @@ def compose(rows):
         "",
         f"Browse all open listings anytime: [iOS Contract Digest]({SITE_URL})",
         "",
-        "*Aggregated daily from Hacker News, RemoteOK, WeWorkRemotely, Remotive and Reddit. "
+        "*Aggregated daily from Hacker News, RemoteOK, WeWorkRemotely, Remotive, "
+        "Freelancer.com, Jobicy, Arbeitnow, Working Nomads and Reddit. "
         "No full-time-only listings, no self-ads.*",
     ]
     subject = f"iOS Contract Digest — {len(rows)} new gig{'s' if len(rows) != 1 else ''} ({today})"
