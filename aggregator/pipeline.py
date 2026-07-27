@@ -175,10 +175,22 @@ def fetch_remotive():
     return jobs
 
 
+# Rough FX rates to USD — only for budget thresholding, not accounting.
+FX_TO_USD = {
+    "USD": 1.0, "EUR": 1.1, "GBP": 1.3, "CAD": 0.73, "AUD": 0.66, "NZD": 0.60,
+    "SGD": 0.74, "HKD": 0.13, "INR": 0.012, "PKR": 0.0036, "BDT": 0.0085,
+    "PHP": 0.017, "IDR": 0.000062, "VND": 0.00004, "MXN": 0.055, "BRL": 0.18,
+    "ZAR": 0.055, "CNY": 0.14, "JPY": 0.0067, "SEK": 0.095, "NOK": 0.095,
+    "DKK": 0.15, "PLN": 0.26, "CHF": 1.12,
+}
+MIN_FIXED_BUDGET_USD = 500
+MIN_HOURLY_RATE_USD = 20
+
+
 def fetch_freelancer():
     """Freelancer.com active projects — an actual freelance-gig marketplace, not a
     job board. Every result is a contract engagement; the LLM gates mobile relevance."""
-    seen, jobs = set(), []
+    seen, jobs, dropped = set(), [], 0
     for query in ("iOS", "React Native", "mobile app"):
         try:
             r = requests.get(
@@ -201,6 +213,19 @@ def fetch_freelancer():
             cur = (p.get("currency") or {}).get("code", "")
             lo, hi = budget.get("minimum"), budget.get("maximum")
             budget_str = f"{lo}-{hi} {cur}".strip() if lo or hi else ""
+            # Budget quality floor: drop gigs we positively know are below the floor.
+            # Best-case = max (fall back to min); keep when budget/currency unknown.
+            best = hi if hi is not None else lo
+            rate = FX_TO_USD.get(cur)
+            if best is not None and rate is not None:
+                best_usd = best * rate
+                ptype = p.get("type", "")
+                if ptype == "fixed" and best_usd < MIN_FIXED_BUDGET_USD:
+                    dropped += 1
+                    continue
+                if ptype == "hourly" and best_usd < MIN_HOURLY_RATE_USD:
+                    dropped += 1
+                    continue
             submitted = p.get("time_submitted")
             posted = (datetime.fromtimestamp(submitted, tz=timezone.utc).isoformat()
                       if isinstance(submitted, (int, float)) else "")
@@ -215,6 +240,7 @@ def fetch_freelancer():
                          f"budget: {budget_str}. skills: {skills}. " + desc[:4000]),
             })
         time.sleep(2)  # avoid the endpoint's aggressive rate limit
+    print(f"[info] Freelancer.com: dropped {dropped} below budget floor", file=sys.stderr)
     return jobs
 
 
