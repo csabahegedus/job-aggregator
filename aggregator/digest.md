@@ -1,10 +1,11 @@
-# iOS contract digest — 2026-09-11 11:41
+# iOS contract digest — 2026-09-12 11:06
 
-31 matching posting(s) (mobile + contract/freelance):
+32 matching posting(s) (mobile + contract/freelance):
 
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[(Senior) Product Manager @ Kranus Health Gmbh](https://www.arbeitnow.com/jobs/companies/kranus-health-gmbh/senior-product-manager-berlin-193606)** — Arbeitnow, 2026-09-12
 - **[[Hiring] referral partner, 20% commission](https://www.reddit.com/r/forhire/comments/1wblvsj/hiring_referral_partner_20_commission/)** — r/forhire, 2026-09-09
 - **[I am Feeling Lost in this New AI World](https://www.reddit.com/r/iOSProgramming/comments/1wbl7vk/i_am_feeling_lost_in_this_new_ai_world/)** — r/iOSProgramming, 2026-09-09
 - **[Expert App developer Required](https://www.freelancer.com/projects/flutter/Expert-App-developer-Required)** — Freelancer.com, 2026-09-09 — Freelance project for cross-platform mobile app development (iOS/Android) using React Native or Flutter for a community coordination platform. Fixed budget 750-1500 GBP. (750.0-1500.0 GBP)
