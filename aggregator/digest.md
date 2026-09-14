@@ -1,10 +1,12 @@
-# iOS contract digest — 2026-09-13 12:13
+# iOS contract digest — 2026-09-14 13:11
 
-33 matching posting(s) (mobile + contract/freelance):
+35 matching posting(s) (mobile + contract/freelance):
 
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[[Hiring] (Gurgaon) Lending Operations - 8 Years Max - DM details](https://www.reddit.com/r/forhire/comments/1wg2kdj/hiring_gurgaon_lending_operations_8_years_max_dm/)** — r/forhire, 2026-09-14
+- **[QA Testers Wanted (No experience needed) @ Tester Work](https://www.workingnomads.com/job/go/1860630/)** — Working Nomads, 2026-09-14
 - **[Senior Frontend Engineer @ Adapty.io](https://www.arbeitnow.co.uk/jobs/companies/adaptyio/senior-frontend-engineer-london-349982)** — Arbeitnow, 2026-09-13
 - **[(Senior) Product Manager @ Kranus Health Gmbh](https://www.arbeitnow.com/jobs/companies/kranus-health-gmbh/senior-product-manager-berlin-193606)** — Arbeitnow, 2026-09-12
 - **[[Hiring] referral partner, 20% commission](https://www.reddit.com/r/forhire/comments/1wblvsj/hiring_referral_partner_20_commission/)** — r/forhire, 2026-09-09
