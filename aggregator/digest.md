@@ -1,10 +1,13 @@
-# iOS contract digest — 2026-09-16 11:56
+# iOS contract digest — 2026-09-17 11:59
 
-38 matching posting(s) (mobile + contract/freelance):
+41 matching posting(s) (mobile + contract/freelance):
 
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Cobalt Core Pentester - UK, Germany, Nordics @ Cobalt](https://jobicy.com/jobs/153419-cobalt-core-pentester-uk-germany-nordics)** — Jobicy, 2026-09-16
+- **[Cobalt Core Pentester @ Cobalt](https://jobicy.com/jobs/153414-cobalt-core-pentester)** — Jobicy, 2026-09-16
+- **[Personalized Internet Ads Assessor - English - Remote @ TELUS Digital](https://www.workingnomads.com/job/go/1867454/)** — Working Nomads, 2026-09-16
 - **[Content Reviewer - United States @ TELUS Digital](https://www.workingnomads.com/job/go/1864402/)** — Working Nomads, 2026-09-15
 - **[Personalized Internet Assessor - Hindi (IN) - Remote @ TELUS Digital](https://www.workingnomads.com/job/go/1864351/)** — Working Nomads, 2026-09-15
 - **[Frontline Support Analyst @ Zone &#038; Co](https://jobicy.com/jobs/153278-frontline-support-analyst-2)** — Jobicy, 2026-09-14
