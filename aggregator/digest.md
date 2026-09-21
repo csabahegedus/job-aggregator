@@ -1,10 +1,11 @@
-# iOS contract digest — 2026-09-20 11:42
+# iOS contract digest — 2026-09-21 13:10
 
-42 matching posting(s) (mobile + contract/freelance):
+43 matching posting(s) (mobile + contract/freelance):
 
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Content Reviewer - United States @ TELUS Digital](https://www.workingnomads.com/job/go/1879612/)** — Working Nomads, 2026-09-21
 - **[Counsel, Business Affairs @ Taketwo](https://www.arbeitnow.co.uk/jobs/companies/taketwo/counsel-business-affairs-london-60730)** — Arbeitnow, 2026-09-20
 - **[Cobalt Core Pentester - UK, Germany, Nordics @ Cobalt](https://jobicy.com/jobs/153419-cobalt-core-pentester-uk-germany-nordics)** — Jobicy, 2026-09-16
 - **[Cobalt Core Pentester @ Cobalt](https://jobicy.com/jobs/153414-cobalt-core-pentester)** — Jobicy, 2026-09-16
