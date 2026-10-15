@@ -1,10 +1,13 @@
-# iOS contract digest — 2026-10-14 12:15
+# iOS contract digest — 2026-10-15 11:54
 
 50 matching posting(s) (mobile + contract/freelance):
 
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Founding Engineer (Tech Lead) · Full-Stack, AI-native (m/w/d) @ Infinos GmbH](https://www.arbeitnow.com/jobs/companies/infinos-gmbh/founding-engineer-tech-lead-full-stack-ai-native-berlin-106809)** — Arbeitnow, 2026-10-15
+- **[QA Engineering Intern (w/m/x/d) @ MILES Mobility](https://www.arbeitnow.com/jobs/companies/miles-mobility/qa-engineering-intern-d-berlin-318733)** — Arbeitnow, 2026-10-15
+- **[Senior QA / Test Engineer (w/m/x/d) @ MILES Mobility](https://www.arbeitnow.com/jobs/companies/miles-mobility/senior-qa-test-engineer-d-berlin-24647)** — Arbeitnow, 2026-10-15
 - **[Senior iOS Engineer (Swift & AWS) @ Oowlish Technology](https://jobicy.com/jobs/155230-senior-ios-engineer-swift-aws)** — Jobicy, 2026-10-13
 - **[Irash Tech | Business Development Manager (Freelance, Commission-only) | REMOTE (Worldwide) | Contract Irash Tech is a s](https://news.ycombinator.com/item?id=50068986)** — HN (Ask HN: Who is hiring? (October 2026)), 2026-10-13
 - **[Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, remote available) | Contract Sendery is a](https://news.ycombinator.com/item?id=50066343)** — HN (Ask HN: Who is hiring? (October 2026)), 2026-10-13
@@ -27,7 +30,6 @@
 - **[Frontend Engineer III @ Zilch](https://www.arbeitnow.co.uk/jobs/companies/zilch/frontend-engineer-iii-london-143299)** — Arbeitnow, 2026-09-24
 - **[Content Reviewer - United States @ TELUS Digital](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144)** — Remotive, 2026-09-21
 - **[Content Reviewer - United States @ TELUS Digital](https://www.workingnomads.com/job/go/1879612/)** — Working Nomads, 2026-09-21
-- **[Counsel, Business Affairs @ Taketwo](https://www.arbeitnow.co.uk/jobs/companies/taketwo/counsel-business-affairs-london-60730)** — Arbeitnow, 2026-09-20
 - **[Cobalt Core Pentester - UK, Germany, Nordics @ Cobalt](https://jobicy.com/jobs/153419-cobalt-core-pentester-uk-germany-nordics)** — Jobicy, 2026-09-16
 - **[Cobalt Core Pentester @ Cobalt](https://jobicy.com/jobs/153414-cobalt-core-pentester)** — Jobicy, 2026-09-16
 - **[Personalized Internet Ads Assessor - English - Remote @ TELUS Digital](https://www.workingnomads.com/job/go/1867454/)** — Working Nomads, 2026-09-16
@@ -36,8 +38,6 @@
 - **[Frontline Support Analyst @ Zone &#038; Co](https://jobicy.com/jobs/153278-frontline-support-analyst-2)** — Jobicy, 2026-09-14
 - **[[Hiring] (Gurgaon) Lending Operations - 8 Years Max - DM details](https://www.reddit.com/r/forhire/comments/1wg2kdj/hiring_gurgaon_lending_operations_8_years_max_dm/)** — r/forhire, 2026-09-14
 - **[QA Testers Wanted (No experience needed) @ Tester Work](https://www.workingnomads.com/job/go/1860630/)** — Working Nomads, 2026-09-14
-- **[Senior Frontend Engineer @ Adapty.io](https://www.arbeitnow.co.uk/jobs/companies/adaptyio/senior-frontend-engineer-london-349982)** — Arbeitnow, 2026-09-13
-- **[(Senior) Product Manager @ Kranus Health Gmbh](https://www.arbeitnow.com/jobs/companies/kranus-health-gmbh/senior-product-manager-berlin-193606)** — Arbeitnow, 2026-09-12
 - **[[Hiring] referral partner, 20% commission](https://www.reddit.com/r/forhire/comments/1wblvsj/hiring_referral_partner_20_commission/)** — r/forhire, 2026-09-09
 - **[I am Feeling Lost in this New AI World](https://www.reddit.com/r/iOSProgramming/comments/1wbl7vk/i_am_feeling_lost_in_this_new_ai_world/)** — r/iOSProgramming, 2026-09-09
 - **[Expert App developer Required](https://www.freelancer.com/projects/flutter/Expert-App-developer-Required)** — Freelancer.com, 2026-09-09 — Freelance project for cross-platform mobile app development (iOS/Android) using React Native or Flutter for a community coordination platform. Fixed budget 750-1500 GBP. (750.0-1500.0 GBP)
