@@ -1,10 +1,11 @@
-# iOS contract digest — 2026-10-16 11:45
+# iOS contract digest — 2026-10-17 11:04
 
 50 matching posting(s) (mobile + contract/freelance):
 
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Mobile Engineer - React Native @ Alma31](https://www.arbeitnow.fr/jobs/companies/alma31/mobile-engineer-react-native-paris-paris-490024)** — Arbeitnow, 2026-10-16
 - **[Senior Strategic Finance Manager @ Duck Duck Go](https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-strategic-finance-manager-277426)** — Arbeitnow, 2026-10-16
 - **[Mobile Developer (Candidates Based in the Netherlands Only) @ Wypoon](https://www.arbeitnow.nl/jobs/companies/wypoon/mobile-developer-candidates-based-in-the-netherlands-only-amsterdam-80964)** — Arbeitnow, 2026-10-16
 - **[Senior AI Engineer / Architect @ Lemon.io](https://www.workingnomads.com/job/go/1944801/)** — Working Nomads, 2026-10-15
@@ -28,7 +29,6 @@
 - **[Human8e Ltd | Applied cryptographer, protocol review | REMOTE (worldwide) | Contract, fixed fee We're an early-stage UK ](https://news.ycombinator.com/item?id=49924575)** — HN (Ask HN: Who is hiring? (October 2026)), 2026-10-01
 - **[Content Reviewer United States - English-speaking @ TELUS Digital](https://www.workingnomads.com/job/go/1907058/)** — Working Nomads, 2026-10-01
 - **[**[FOR HIRE] Web Developer | React / Node.js / Next.js / NestJS](https://www.reddit.com/r/forhire/comments/1wus3ce/for_hire_web_developer_react_nodejs_nextjs_nestjs/)** — r/forhire, 2026-10-01
-- **[Sales Engineer, Banking @ Fireblocks](https://www.arbeitnow.ch/jobs/companies/fireblocks/sales-engineer-banking-zurich-363959)** — Arbeitnow, 2026-09-28
 - **[Content Reviewer - United States @ TELUS Digital](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144)** — Remotive, 2026-09-21
 - **[Content Reviewer - United States @ TELUS Digital](https://www.workingnomads.com/job/go/1879612/)** — Working Nomads, 2026-09-21
 - **[Cobalt Core Pentester - UK, Germany, Nordics @ Cobalt](https://jobicy.com/jobs/153419-cobalt-core-pentester-uk-germany-nordics)** — Jobicy, 2026-09-16
