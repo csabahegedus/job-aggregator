@@ -1,10 +1,12 @@
-# iOS contract digest — 2026-10-21 12:12
+# iOS contract digest — 2026-10-22 12:15
 
 50 matching posting(s) (mobile + contract/freelance):
 
+- **[Lemon.io: Senior Vue Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1)** — WeWorkRemotely, Wed, 21 Oc
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Senior Angular Developer @ Lemon.io](https://www.workingnomads.com/job/go/1960693/)** — Working Nomads, 2026-10-21
 - **[Senior DevOps Engineer @ Lemon.io](https://www.workingnomads.com/job/go/1958438/)** — Working Nomads, 2026-10-20
 - **[Mobile Engineer - React Native (Paris or Remote France) @ Alma](https://jobicy.com/jobs/155885-mobile-engineer-react-native-paris-or-remote-france)** — Jobicy, 2026-10-19
 - **[Senior Strategic Finance Manager @ DuckDuckGo](https://jobicy.com/jobs/155825-senior-strategic-finance-manager)** — Jobicy, 2026-10-19
@@ -40,7 +42,6 @@
 - **[Content Reviewer - United States @ TELUS Digital](https://www.workingnomads.com/job/go/1864402/)** — Working Nomads, 2026-09-15
 - **[Personalized Internet Assessor - Hindi (IN) - Remote @ TELUS Digital](https://www.workingnomads.com/job/go/1864351/)** — Working Nomads, 2026-09-15
 - **[[Hiring] (Gurgaon) Lending Operations - 8 Years Max - DM details](https://www.reddit.com/r/forhire/comments/1wg2kdj/hiring_gurgaon_lending_operations_8_years_max_dm/)** — r/forhire, 2026-09-14
-- **[QA Testers Wanted (No experience needed) @ Tester Work](https://www.workingnomads.com/job/go/1860630/)** — Working Nomads, 2026-09-14
 - **[[Hiring] referral partner, 20% commission](https://www.reddit.com/r/forhire/comments/1wblvsj/hiring_referral_partner_20_commission/)** — r/forhire, 2026-09-09
 - **[I am Feeling Lost in this New AI World](https://www.reddit.com/r/iOSProgramming/comments/1wbl7vk/i_am_feeling_lost_in_this_new_ai_world/)** — r/iOSProgramming, 2026-09-09
 - **[Expert App developer Required](https://www.freelancer.com/projects/flutter/Expert-App-developer-Required)** — Freelancer.com, 2026-09-09 — Freelance project for cross-platform mobile app development (iOS/Android) using React Native or Flutter for a community coordination platform. Fixed budget 750-1500 GBP. (750.0-1500.0 GBP)
@@ -51,4 +52,3 @@
 - **[Çok Amaçlı Mobil Süper App](https://www.freelancer.com/projects/react-native/Ama-Mobil-per-App)** — Freelancer.com, 2026-09-09 — Freelance project to develop a multi-purpose mobile super app with health/fitness tracking, social feed, mini games, shopping, and micro-learning features. Cross-platform development using React Native or Flutter. Fixed budget project. (250.0-750.0 USD)
 - **[DGCA-Compliant Pilot Training App](https://www.freelancer.com/projects/mobile-app-development/DGCA-Compliant-Pilot-Training-App)** — Freelancer.com, 2026-09-09 — Freelance project to develop DGCA-compliant pilot training app for mobile/tablet using React Native or Flutter with multimedia content (video, 3D models, animation). (37500-75000 INR)
 - **[Towing Data Capture Mobile App](https://www.freelancer.com/projects/android/Towing-Data-Capture-Mobile-App)** — Freelancer.com, 2026-09-09 — Freelance project to develop a cross-platform mobile app (iOS and Android) for towing data capture with GPS and OCR functionality using Flutter. Fixed budget project. (750.0-1500.0 AUD)
-- **[[Hiring] Remote Roles ($2,400 - $6,000 / month)](https://www.reddit.com/r/forhire/comments/1w9wc4k/hiring_remote_roles_2400_6000_month/)** — r/forhire, 2026-09-07 — Remote contract role for Sr Mobile Engineer with Android (Java/Kotlin) focus. This posting lists multiple positions; the Sr Mobile Engineer role is relevant for mobile development but specifies Android, not iOS. ($3,800 - $5,000/month)
