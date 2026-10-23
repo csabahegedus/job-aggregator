@@ -1,4 +1,4 @@
-# iOS contract digest — 2026-10-22 12:15
+# iOS contract digest — 2026-10-23 11:56
 
 50 matching posting(s) (mobile + contract/freelance):
 
@@ -6,6 +6,7 @@
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Growth & AI Marketing Operations Specialist @ Papers AG](https://www.arbeitnow.ch/jobs/companies/papers-ag/growth-ai-marketing-operations-specialist-zug-251104)** — Arbeitnow, 2026-10-23
 - **[Senior Angular Developer @ Lemon.io](https://www.workingnomads.com/job/go/1960693/)** — Working Nomads, 2026-10-21
 - **[Senior DevOps Engineer @ Lemon.io](https://www.workingnomads.com/job/go/1958438/)** — Working Nomads, 2026-10-20
 - **[Mobile Engineer - React Native (Paris or Remote France) @ Alma](https://jobicy.com/jobs/155885-mobile-engineer-react-native-paris-or-remote-france)** — Jobicy, 2026-10-19
@@ -17,7 +18,6 @@
 - **[Senior Security Engineer (f/m/d) @ Wire 1](https://www.arbeitnow.com/jobs/companies/wire-1/senior-security-engineer-berlin-247112)** — Arbeitnow, 2026-10-18
 - **[Mobile Engineer - React Native (100% Remote) - Worldwide @ Tether Operations Limited](https://www.arbeitnow.co.uk/jobs/companies/tether-operations-limited/mobile-engineer-react-native-100-remote-worldwide-united-kindom-24659)** — Arbeitnow, 2026-10-18
 - **[Mobile Engineer - React Native @ Alma31](https://www.arbeitnow.fr/jobs/companies/alma31/mobile-engineer-react-native-paris-paris-490024)** — Arbeitnow, 2026-10-16
-- **[Senior Strategic Finance Manager @ Duck Duck Go](https://www.arbeitnow.com/jobs/companies/duck-duck-go/remote-senior-strategic-finance-manager-277426)** — Arbeitnow, 2026-10-16
 - **[Senior AI Engineer / Architect @ Lemon.io](https://www.workingnomads.com/job/go/1944801/)** — Working Nomads, 2026-10-15
 - **[Senior iOS Engineer (Swift & AWS) @ Oowlish Technology](https://jobicy.com/jobs/155230-senior-ios-engineer-swift-aws)** — Jobicy, 2026-10-13
 - **[Irash Tech | Business Development Manager (Freelance, Commission-only) | REMOTE (Worldwide) | Contract Irash Tech is a s](https://news.ycombinator.com/item?id=50068986)** — HN (Ask HN: Who is hiring? (October 2026)), 2026-10-13
