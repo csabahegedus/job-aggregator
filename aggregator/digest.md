@@ -1,4 +1,4 @@
-# iOS contract digest — 2026-10-23 11:56
+# iOS contract digest — 2026-10-24 11:25
 
 50 matching posting(s) (mobile + contract/freelance):
 
@@ -7,6 +7,7 @@
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
 - **[Growth & AI Marketing Operations Specialist @ Papers AG](https://www.arbeitnow.ch/jobs/companies/papers-ag/growth-ai-marketing-operations-specialist-zug-251104)** — Arbeitnow, 2026-10-23
+- **[Senior DevOps Engineer @ Lemon.io](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557)** — RemoteOK, 2026-10-22
 - **[Senior Angular Developer @ Lemon.io](https://www.workingnomads.com/job/go/1960693/)** — Working Nomads, 2026-10-21
 - **[Senior DevOps Engineer @ Lemon.io](https://www.workingnomads.com/job/go/1958438/)** — Working Nomads, 2026-10-20
 - **[Mobile Engineer - React Native (Paris or Remote France) @ Alma](https://jobicy.com/jobs/155885-mobile-engineer-react-native-paris-or-remote-france)** — Jobicy, 2026-10-19
@@ -51,4 +52,3 @@
 - **[Multi-Service App & Zoho Books](https://www.freelancer.com/projects/web-development/Multi-Service-App-Zoho-Books)** — Freelancer.com, 2026-09-09 — Freelance project to build a multi-service booking app for iOS and Android with Zoho Books integration. Full stack development including API, mobile apps, and web components. (37500.0-75000.0 INR)
 - **[Çok Amaçlı Mobil Süper App](https://www.freelancer.com/projects/react-native/Ama-Mobil-per-App)** — Freelancer.com, 2026-09-09 — Freelance project to develop a multi-purpose mobile super app with health/fitness tracking, social feed, mini games, shopping, and micro-learning features. Cross-platform development using React Native or Flutter. Fixed budget project. (250.0-750.0 USD)
 - **[DGCA-Compliant Pilot Training App](https://www.freelancer.com/projects/mobile-app-development/DGCA-Compliant-Pilot-Training-App)** — Freelancer.com, 2026-09-09 — Freelance project to develop DGCA-compliant pilot training app for mobile/tablet using React Native or Flutter with multimedia content (video, 3D models, animation). (37500-75000 INR)
-- **[Towing Data Capture Mobile App](https://www.freelancer.com/projects/android/Towing-Data-Capture-Mobile-App)** — Freelancer.com, 2026-09-09 — Freelance project to develop a cross-platform mobile app (iOS and Android) for towing data capture with GPS and OCR functionality using Flutter. Fixed budget project. (750.0-1500.0 AUD)
