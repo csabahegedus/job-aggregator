@@ -1,4 +1,4 @@
-# iOS contract digest — 2026-10-29 13:32
+# iOS contract digest — 2026-10-30 13:20
 
 50 matching posting(s) (mobile + contract/freelance):
 
@@ -6,6 +6,8 @@
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Endpoint Management & RMM Specialist (m/w/d) @ ADVANCED Systemhaus GmbH](https://www.arbeitnow.com/jobs/companies/advanced-systemhaus-gmbh/endpoint-management-rmm-specialist-hamburg-326264)** — Arbeitnow, 2026-10-30
+- **[Senior Magento Developer @ Lemon.io](https://www.workingnomads.com/job/go/1981017/)** — Working Nomads, 2026-10-29
 - **[Uber Driver with Electric Vehicle Needed for App Testing (France) @ Testlio](https://jobicy.com/jobs/157683-uber-driver-with-electric-vehicle-needed-for-app-testing-france)** — Jobicy, 2026-10-28
 - **[Senior Swift & SwiftUI Developer @ Lemon.io](https://www.workingnomads.com/job/go/1976189/)** — Working Nomads, 2026-10-27
 - **[Staff Software Engineer - Backend (CDI) @ Matera](https://www.arbeitnow.fr/jobs/companies/matera/staff-software-engineer-backend-cdi-paris-430263)** — Arbeitnow, 2026-10-25
@@ -20,7 +22,6 @@
 - **[Senior Strategic Finance Manager @ DuckDuckGo](https://jobicy.com/jobs/155825-senior-strategic-finance-manager)** — Jobicy, 2026-10-19
 - **[Principal Performance Marketing Specialist @ Airalo](https://www.arbeitnow.co.uk/jobs/companies/airalo/principal-performance-marketing-specialist-united-kingdom-136279)** — Arbeitnow, 2026-10-18
 - **[Senior Java/Angular Entwickler (m/w/d) - Zahlungsverkehr (Ref.Nr.: 48009) @ Wavestone Germany AG](https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-java-angular-entwickler-zahlungsverkehr-refnr-48009-zurich-175246)** — Arbeitnow, 2026-10-18
-- **[Senior React Native Engineer - App Owner (w/m/x/d) @ MILES Mobility GmbH](https://www.arbeitnow.com/jobs/companies/miles-mobility-gmbh/senior-react-native-engineer-app-owner-d-berlin-295111)** — Arbeitnow, 2026-10-18
 - **[Senior AI Engineer / Architect @ Lemon.io](https://www.workingnomads.com/job/go/1944801/)** — Working Nomads, 2026-10-15
 - **[Senior iOS Engineer (Swift & AWS) @ Oowlish Technology](https://jobicy.com/jobs/155230-senior-ios-engineer-swift-aws)** — Jobicy, 2026-10-13
 - **[Irash Tech | Business Development Manager (Freelance, Commission-only) | REMOTE (Worldwide) | Contract Irash Tech is a s](https://news.ycombinator.com/item?id=50068986)** — HN (Ask HN: Who is hiring? (October 2026)), 2026-10-13
@@ -41,7 +42,6 @@
 - **[Content Reviewer - United States @ TELUS Digital](https://www.workingnomads.com/job/go/1879612/)** — Working Nomads, 2026-09-21
 - **[Cobalt Core Pentester - UK, Germany, Nordics @ Cobalt](https://jobicy.com/jobs/153419-cobalt-core-pentester-uk-germany-nordics)** — Jobicy, 2026-09-16
 - **[Personalized Internet Ads Assessor - English - Remote @ TELUS Digital](https://www.workingnomads.com/job/go/1867454/)** — Working Nomads, 2026-09-16
-- **[Content Reviewer - United States @ TELUS Digital](https://www.workingnomads.com/job/go/1864402/)** — Working Nomads, 2026-09-15
 - **[[Hiring] (Gurgaon) Lending Operations - 8 Years Max - DM details](https://www.reddit.com/r/forhire/comments/1wg2kdj/hiring_gurgaon_lending_operations_8_years_max_dm/)** — r/forhire, 2026-09-14
 - **[[Hiring] referral partner, 20% commission](https://www.reddit.com/r/forhire/comments/1wblvsj/hiring_referral_partner_20_commission/)** — r/forhire, 2026-09-09
 - **[I am Feeling Lost in this New AI World](https://www.reddit.com/r/iOSProgramming/comments/1wbl7vk/i_am_feeling_lost_in_this_new_ai_world/)** — r/iOSProgramming, 2026-09-09
