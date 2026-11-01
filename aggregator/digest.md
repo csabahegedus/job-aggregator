@@ -1,4 +1,4 @@
-# iOS contract digest — 2026-10-31 12:57
+# iOS contract digest — 2026-11-01 13:43
 
 50 matching posting(s) (mobile + contract/freelance):
 
@@ -6,6 +6,7 @@
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Lead Mobile Engineer - React Native @ DiliTrust](https://www.arbeitnow.fr/jobs/companies/dilitrust/lead-mobile-engineer-react-native-paris-la-defense-226541)** — Arbeitnow, 2026-11-01
 - **[[Hiring] Utility Operations Application Specialist (Contract)- Paramus, NJ](https://www.reddit.com/r/forhire/comments/1xjjv0p/hiring_utility_operations_application_specialist/)** — r/forhire, 2026-10-30
 - **[‎‎[FOR HIRE] Product Architect & Full Stack Dev | I design and build your SaaS from scratch ($20/hr or fixed)](https://www.reddit.com/r/forhire/comments/1xjja0k/for_hire_product_architect_full_stack_dev_i/)** — r/forhire, 2026-10-30
 - **[Endpoint Management & RMM Specialist (m/w/d) @ ADVANCED Systemhaus GmbH](https://www.arbeitnow.com/jobs/companies/advanced-systemhaus-gmbh/endpoint-management-rmm-specialist-hamburg-326264)** — Arbeitnow, 2026-10-30
@@ -23,7 +24,6 @@
 - **[Mobile Engineer - React Native (Paris or Remote France) @ Alma](https://jobicy.com/jobs/155885-mobile-engineer-react-native-paris-or-remote-france)** — Jobicy, 2026-10-19
 - **[Senior Strategic Finance Manager @ DuckDuckGo](https://jobicy.com/jobs/155825-senior-strategic-finance-manager)** — Jobicy, 2026-10-19
 - **[Principal Performance Marketing Specialist @ Airalo](https://www.arbeitnow.co.uk/jobs/companies/airalo/principal-performance-marketing-specialist-united-kingdom-136279)** — Arbeitnow, 2026-10-18
-- **[Senior Java/Angular Entwickler (m/w/d) - Zahlungsverkehr (Ref.Nr.: 48009) @ Wavestone Germany AG](https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-java-angular-entwickler-zahlungsverkehr-refnr-48009-zurich-175246)** — Arbeitnow, 2026-10-18
 - **[Senior AI Engineer / Architect @ Lemon.io](https://www.workingnomads.com/job/go/1944801/)** — Working Nomads, 2026-10-15
 - **[Senior iOS Engineer (Swift & AWS) @ Oowlish Technology](https://jobicy.com/jobs/155230-senior-ios-engineer-swift-aws)** — Jobicy, 2026-10-13
 - **[Irash Tech | Business Development Manager (Freelance, Commission-only) | REMOTE (Worldwide) | Contract Irash Tech is a s](https://news.ycombinator.com/item?id=50068986)** — HN (Ask HN: Who is hiring? (October 2026)), 2026-10-13
