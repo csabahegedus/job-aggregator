@@ -1,4 +1,4 @@
-# iOS contract digest — 2026-11-02 16:27
+# iOS contract digest — 2026-11-03 14:34
 
 50 matching posting(s) (mobile + contract/freelance):
 
@@ -6,6 +6,9 @@
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Product Owner / Business Analyst / AMOA (H/F) @ Valsoft Corp](https://www.arbeitnow.fr/jobs/companies/valsoft-corp/product-owner-business-analyst-amoa-h-f-nantes-349046)** — Arbeitnow, 2026-11-03
+- **[i2nd Level Supporter:in - E-banking @ Coopers Group AG](https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/i2nd-level-supporterin-e-banking-zurich-281806)** — Arbeitnow, 2026-11-03
+- **[Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, US/Canada remote available) | Contract Se](https://news.ycombinator.com/item?id=50345770)** — HN (Ask HN: Who is hiring? (November 2026)), 2026-11-02
 - **[IT Supporter:in - E-banking @ Coopers Group AG](https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-supporterin-e-banking-zurich-100653)** — Arbeitnow, 2026-11-02
 - **[Lead Mobile Engineer - React Native @ DiliTrust](https://www.arbeitnow.fr/jobs/companies/dilitrust/lead-mobile-engineer-react-native-paris-la-defense-226541)** — Arbeitnow, 2026-11-01
 - **[[Hiring] Utility Operations Application Specialist (Contract)- Paramus, NJ](https://www.reddit.com/r/forhire/comments/1xjjv0p/hiring_utility_operations_application_specialist/)** — r/forhire, 2026-10-30
@@ -17,8 +20,6 @@
 - **[Staff Software Engineer - Backend (CDI) @ Matera](https://www.arbeitnow.fr/jobs/companies/matera/staff-software-engineer-backend-cdi-paris-430263)** — Arbeitnow, 2026-10-25
 - **[Staff Security Engineer (CDI) @ Matera](https://www.arbeitnow.fr/jobs/companies/matera/staff-security-engineer-cdi-paris-69905)** — Arbeitnow, 2026-10-25
 - **[UX/UI Designer (H/F) @ WINAMAX](https://www.arbeitnow.fr/jobs/companies/winamax/ux-ui-designer-h-f-paris-302617)** — Arbeitnow, 2026-10-25
-- **[Senior Développeur Front-End - Team Poker (H/F) @ WINAMAX](https://www.arbeitnow.fr/jobs/companies/winamax/senior-developpeur-front-end-team-poker-h-f-paris-201409)** — Arbeitnow, 2026-10-25
-- **[Growth & AI Marketing Operations Specialist @ Papers AG](https://www.arbeitnow.ch/jobs/companies/papers-ag/growth-ai-marketing-operations-specialist-zug-251104)** — Arbeitnow, 2026-10-23
 - **[Senior DevOps Engineer @ Lemon.io](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557)** — RemoteOK, 2026-10-22
 - **[Senior Angular Developer @ Lemon.io](https://www.workingnomads.com/job/go/1960693/)** — Working Nomads, 2026-10-21
 - **[Senior DevOps Engineer @ Lemon.io](https://www.workingnomads.com/job/go/1958438/)** — Working Nomads, 2026-10-20
@@ -51,4 +52,3 @@
 - **[Cross-Platform Savings Tracker App](https://www.freelancer.com/projects/ios-development/Cross-Platform-Savings-Tracker-App)** — Freelancer.com, 2026-09-09 — Freelance project to develop a cross-platform savings tracker app for iOS and Android. Fixed budget of 250-750 GBP. Requires mobile app development skills across both platforms. (250.0-750.0 GBP)
 - **[Cross-Platform Mobile App Needed](https://www.freelancer.com/projects/ios-development/Cross-Platform-Mobile-App-Needed)** — Freelancer.com, 2026-09-09 — Freelance project to develop cross-platform mobile app for iOS and Android using React Native or Flutter. Fixed budget project with scope covering both platforms. (37500.0-75000.0 INR)
 - **[Multi-Service App & Zoho Books](https://www.freelancer.com/projects/web-development/Multi-Service-App-Zoho-Books)** — Freelancer.com, 2026-09-09 — Freelance project to build a multi-service booking app for iOS and Android with Zoho Books integration. Full stack development including API, mobile apps, and web components. (37500.0-75000.0 INR)
-- **[Çok Amaçlı Mobil Süper App](https://www.freelancer.com/projects/react-native/Ama-Mobil-per-App)** — Freelancer.com, 2026-09-09 — Freelance project to develop a multi-purpose mobile super app with health/fitness tracking, social feed, mini games, shopping, and micro-learning features. Cross-platform development using React Native or Flutter. Fixed budget project. (250.0-750.0 USD)
