@@ -1,4 +1,4 @@
-# iOS contract digest — 2026-11-05 14:53
+# iOS contract digest — 2026-11-06 14:31
 
 50 matching posting(s) (mobile + contract/freelance):
 
@@ -6,6 +6,9 @@
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Compliance Lead - CMMC (NIST SP 800-171) @ Defense Unicorns](https://jobicy.com/jobs/159244-compliance-lead-cmmc-nist-sp-800-171)** — Jobicy, 2026-11-06
+- **[Senior Vue Developer @ Lemon.io](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688)** — RemoteOK, 2026-11-05
+- **[Content Reviewer - United States @ TELUS Digital](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166)** — Remotive, 2026-11-04
 - **[Location: Andalucía, Spain (CET)](https://news.ycombinator.com/item?id=50353980)** — HN (Ask HN: Who is hiring? (November 2026)), 2026-11-03
 - **[Product Owner / Business Analyst / AMOA (H/F) @ Valsoft Corp](https://www.arbeitnow.fr/jobs/companies/valsoft-corp/product-owner-business-analyst-amoa-h-f-nantes-349046)** — Arbeitnow, 2026-11-03
 - **[i2nd Level Supporter:in - E-banking @ Coopers Group AG](https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/i2nd-level-supporterin-e-banking-zurich-281806)** — Arbeitnow, 2026-11-03
@@ -44,11 +47,8 @@
 - **[**[FOR HIRE] Web Developer | React / Node.js / Next.js / NestJS](https://www.reddit.com/r/forhire/comments/1wus3ce/for_hire_web_developer_react_nodejs_nextjs_nestjs/)** — r/forhire, 2026-10-01
 - **[Content Reviewer - United States @ TELUS Digital](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144)** — Remotive, 2026-09-21
 - **[Content Reviewer - United States @ TELUS Digital](https://www.workingnomads.com/job/go/1879612/)** — Working Nomads, 2026-09-21
-- **[Cobalt Core Pentester - UK, Germany, Nordics @ Cobalt](https://jobicy.com/jobs/153419-cobalt-core-pentester-uk-germany-nordics)** — Jobicy, 2026-09-16
 - **[Personalized Internet Ads Assessor - English - Remote @ TELUS Digital](https://www.workingnomads.com/job/go/1867454/)** — Working Nomads, 2026-09-16
 - **[[Hiring] (Gurgaon) Lending Operations - 8 Years Max - DM details](https://www.reddit.com/r/forhire/comments/1wg2kdj/hiring_gurgaon_lending_operations_8_years_max_dm/)** — r/forhire, 2026-09-14
 - **[I am Feeling Lost in this New AI World](https://www.reddit.com/r/iOSProgramming/comments/1wbl7vk/i_am_feeling_lost_in_this_new_ai_world/)** — r/iOSProgramming, 2026-09-09
 - **[Expert App developer Required](https://www.freelancer.com/projects/flutter/Expert-App-developer-Required)** — Freelancer.com, 2026-09-09 — Freelance project for cross-platform mobile app development (iOS/Android) using React Native or Flutter for a community coordination platform. Fixed budget 750-1500 GBP. (750.0-1500.0 GBP)
 - **[React-to-Mobile App Conversion](https://www.freelancer.com/projects/nodejs/React-Mobile-App-Conversion)** — Freelancer.com, 2026-09-09 — Freelance project to convert existing React app to mobile platform (iOS/Android). Budget: $250-750 USD fixed. Tech stack includes TypeScript, Node.js, PostgreSQL, and API integration. ($250-750 USD)
-- **[Cross-Platform Savings Tracker App](https://www.freelancer.com/projects/ios-development/Cross-Platform-Savings-Tracker-App)** — Freelancer.com, 2026-09-09 — Freelance project to develop a cross-platform savings tracker app for iOS and Android. Fixed budget of 250-750 GBP. Requires mobile app development skills across both platforms. (250.0-750.0 GBP)
-- **[Cross-Platform Mobile App Needed](https://www.freelancer.com/projects/ios-development/Cross-Platform-Mobile-App-Needed)** — Freelancer.com, 2026-09-09 — Freelance project to develop cross-platform mobile app for iOS and Android using React Native or Flutter. Fixed budget project with scope covering both platforms. (37500.0-75000.0 INR)
