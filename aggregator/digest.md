@@ -1,4 +1,4 @@
-# iOS contract digest — 2026-11-07 13:25
+# iOS contract digest — 2026-11-08 13:46
 
 50 matching posting(s) (mobile + contract/freelance):
 
@@ -6,6 +6,7 @@
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Hebrew Multimedia Content Reviewer (Part time) @ Welo Global](https://jobicy.com/jobs/159638-hebrew-multimedia-content-reviewer-part-time)** — Jobicy, 2026-11-07
 - **[Senior iOS Software Engineer - Brazil @ Housecall Pro](https://jobicy.com/jobs/159323-senior-ios-software-engineer-brazil)** — Jobicy, 2026-11-06
 - **[Compliance Lead - CMMC (NIST SP 800-171) @ Defense Unicorns](https://jobicy.com/jobs/159244-compliance-lead-cmmc-nist-sp-800-171)** — Jobicy, 2026-11-06
 - **[Senior Vue Developer @ Lemon.io](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688)** — RemoteOK, 2026-11-05
@@ -36,7 +37,6 @@
 - **[Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, remote available) | Contract Sendery is a](https://news.ycombinator.com/item?id=50066343)** — HN (Ask HN: Who is hiring? (October 2026)), 2026-10-13
 - **[[Hiring] Certified Cybersecurity Freelancer / Penetration Tester for Web App Pentest & Compliance Attestation ($500 - $1](https://www.reddit.com/r/forhire/comments/1x1gmzx/hiring_certified_cybersecurity_freelancer/)** — r/forhire, 2026-10-09
 - **[QA Engineer (Anywhere in Europe) @ PadSplit](https://jobicy.com/jobs/154874-qa-engineer-anywhere-in-europe)** — Jobicy, 2026-10-08
-- **[(743) Event Coordinator/Virtual Event Specialist @ Arlo Solutions](https://jobicy.com/jobs/154859-743-event-coordinator-virtual-event-specialist)** — Jobicy, 2026-10-08
 - **[[Hiring] Freelance Social Media Manager for iOS Travel Apps ($15–$35/hr)](https://www.reddit.com/r/forhire/comments/1x0bnle/hiring_freelance_social_media_manager_for_ios/)** — r/forhire, 2026-10-07
 - **[[HIRING] UGC creators — CPM model, make videos in one proven format [under 60 sec per video]](https://www.reddit.com/r/forhire/comments/1x00w6j/hiring_ugc_creators_cpm_model_make_videos_in_one/)** — r/forhire, 2026-10-07
 - **[[HIRING] Lead Designer – Design Systems | London | 12 Months | Up to £500+/day PAYE](https://www.reddit.com/r/forhire/comments/1wz85f9/hiring_lead_designer_design_systems_london_12/)** — r/forhire, 2026-10-06
