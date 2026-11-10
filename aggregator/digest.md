@@ -1,4 +1,4 @@
-# iOS contract digest — 2026-11-09 16:46
+# iOS contract digest — 2026-11-10 15:08
 
 50 matching posting(s) (mobile + contract/freelance):
 
@@ -6,6 +6,9 @@
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Senior .NET Full-stack Developer @ Lemon.io](https://www.workingnomads.com/job/go/2011124/)** — Working Nomads, 2026-11-10
+- **[Technical Manager - Platform Services Mobile Foundations @ Wellhub](https://jobicy.com/jobs/160691-technical-manager-platform-services-mobile-foundations)** — Jobicy, 2026-11-09
+- **[Senior Business Analyst (m/w/d) - Mobile Apps & Digital Identity (Ref.Nr.: 48196) @ Wavestone Germany AG](https://www.arbeitnow.ch/jobs/companies/wavestone-germany-ag/senior-business-analyst-mobile-apps-digital-identity-refnr-48196-zurich-440803)** — Arbeitnow, 2026-11-09
 - **[[Hiring] Senior Developer & Pentester for White-Box Security Assessment & Code Review (TypeScript, Next.js, React Native](https://www.reddit.com/r/forhire/comments/1xr0gdt/hiring_senior_developer_pentester_for_whitebox/)** — r/forhire, 2026-11-08
 - **[Hebrew Multimedia Content Reviewer (Part time) @ Welo Global](https://jobicy.com/jobs/159638-hebrew-multimedia-content-reviewer-part-time)** — Jobicy, 2026-11-07
 - **[Senior iOS Software Engineer - Brazil @ Housecall Pro](https://jobicy.com/jobs/159323-senior-ios-software-engineer-brazil)** — Jobicy, 2026-11-06
@@ -26,7 +29,6 @@
 - **[Senior Swift & SwiftUI Developer @ Lemon.io](https://www.workingnomads.com/job/go/1976189/)** — Working Nomads, 2026-10-27
 - **[Staff Software Engineer - Backend (CDI) @ Matera](https://www.arbeitnow.fr/jobs/companies/matera/staff-software-engineer-backend-cdi-paris-430263)** — Arbeitnow, 2026-10-25
 - **[Staff Security Engineer (CDI) @ Matera](https://www.arbeitnow.fr/jobs/companies/matera/staff-security-engineer-cdi-paris-69905)** — Arbeitnow, 2026-10-25
-- **[UX/UI Designer (H/F) @ WINAMAX](https://www.arbeitnow.fr/jobs/companies/winamax/ux-ui-designer-h-f-paris-302617)** — Arbeitnow, 2026-10-25
 - **[Senior DevOps Engineer @ Lemon.io](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557)** — RemoteOK, 2026-10-22
 - **[Senior Angular Developer @ Lemon.io](https://www.workingnomads.com/job/go/1960693/)** — Working Nomads, 2026-10-21
 - **[Senior DevOps Engineer @ Lemon.io](https://www.workingnomads.com/job/go/1958438/)** — Working Nomads, 2026-10-20
@@ -37,7 +39,6 @@
 - **[Irash Tech | Business Development Manager (Freelance, Commission-only) | REMOTE (Worldwide) | Contract Irash Tech is a s](https://news.ycombinator.com/item?id=50068986)** — HN (Ask HN: Who is hiring? (October 2026)), 2026-10-13
 - **[Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, remote available) | Contract Sendery is a](https://news.ycombinator.com/item?id=50066343)** — HN (Ask HN: Who is hiring? (October 2026)), 2026-10-13
 - **[[Hiring] Certified Cybersecurity Freelancer / Penetration Tester for Web App Pentest & Compliance Attestation ($500 - $1](https://www.reddit.com/r/forhire/comments/1x1gmzx/hiring_certified_cybersecurity_freelancer/)** — r/forhire, 2026-10-09
-- **[QA Engineer (Anywhere in Europe) @ PadSplit](https://jobicy.com/jobs/154874-qa-engineer-anywhere-in-europe)** — Jobicy, 2026-10-08
 - **[[Hiring] Freelance Social Media Manager for iOS Travel Apps ($15–$35/hr)](https://www.reddit.com/r/forhire/comments/1x0bnle/hiring_freelance_social_media_manager_for_ios/)** — r/forhire, 2026-10-07
 - **[[HIRING] UGC creators — CPM model, make videos in one proven format [under 60 sec per video]](https://www.reddit.com/r/forhire/comments/1x00w6j/hiring_ugc_creators_cpm_model_make_videos_in_one/)** — r/forhire, 2026-10-07
 - **[[HIRING] Lead Designer – Design Systems | London | 12 Months | Up to £500+/day PAYE](https://www.reddit.com/r/forhire/comments/1wz85f9/hiring_lead_designer_design_systems_london_12/)** — r/forhire, 2026-10-06
@@ -48,7 +49,6 @@
 - **[**[FOR HIRE] Web Developer | React / Node.js / Next.js / NestJS](https://www.reddit.com/r/forhire/comments/1wus3ce/for_hire_web_developer_react_nodejs_nextjs_nestjs/)** — r/forhire, 2026-10-01
 - **[Content Reviewer - United States @ TELUS Digital](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144)** — Remotive, 2026-09-21
 - **[Content Reviewer - United States @ TELUS Digital](https://www.workingnomads.com/job/go/1879612/)** — Working Nomads, 2026-09-21
-- **[Personalized Internet Ads Assessor - English - Remote @ TELUS Digital](https://www.workingnomads.com/job/go/1867454/)** — Working Nomads, 2026-09-16
 - **[I am Feeling Lost in this New AI World](https://www.reddit.com/r/iOSProgramming/comments/1wbl7vk/i_am_feeling_lost_in_this_new_ai_world/)** — r/iOSProgramming, 2026-09-09
 - **[Expert App developer Required](https://www.freelancer.com/projects/flutter/Expert-App-developer-Required)** — Freelancer.com, 2026-09-09 — Freelance project for cross-platform mobile app development (iOS/Android) using React Native or Flutter for a community coordination platform. Fixed budget 750-1500 GBP. (750.0-1500.0 GBP)
 - **[React-to-Mobile App Conversion](https://www.freelancer.com/projects/nodejs/React-Mobile-App-Conversion)** — Freelancer.com, 2026-09-09 — Freelance project to convert existing React app to mobile platform (iOS/Android). Budget: $250-750 USD fixed. Tech stack includes TypeScript, Node.js, PostgreSQL, and API integration. ($250-750 USD)
