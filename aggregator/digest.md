@@ -1,4 +1,4 @@
-# iOS contract digest — 2026-11-12 15:32
+# iOS contract digest — 2026-11-13 14:49
 
 50 matching posting(s) (mobile + contract/freelance):
 
@@ -6,8 +6,12 @@
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Freelance Software Tester | Remote in Italy @ Testlio](https://jobicy.com/jobs/161767-freelance-software-tester-remote-in-italy)** — Jobicy, 2026-11-13
+- **[Freelance Software Tester | Remote in Germany @ Testlio](https://jobicy.com/jobs/161756-freelance-software-tester-remote-in-germany)** — Jobicy, 2026-11-13
+- **[Freelance Software Tester | Remote in Belgium @ Testlio](https://jobicy.com/jobs/161742-freelance-software-tester-remote-in-belgium)** — Jobicy, 2026-11-13
 - **[[HIRING] 6 programming and evaluation roles: General Engineer / Jupyter / Firebase & more](https://www.reddit.com/r/jobbit/comments/1xuafqo/hiring_6_programming_and_evaluation_roles_general/)** — r/jobbit, 2026-11-12
 - **[Procurement Advisory Services (contract) @ DuckDuckGo](https://jobicy.com/jobs/161519-procurement-advisory-services-contract)** — Jobicy, 2026-11-12
+- **[Senior Data Engineer @ Lemon.io](https://remotive.com/remote-jobs/data/senior-data-engineer-2091137)** — Remotive, 2026-11-11
 - **[Senior UI & UX Designer @ Lemon.io](https://www.workingnomads.com/job/go/2014034/)** — Working Nomads, 2026-11-11
 - **[Senior React Full-stack Developer @ Lemon.io](https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091136)** — Remotive, 2026-11-10
 - **[Senior .NET Full-stack Developer @ Lemon.io](https://www.workingnomads.com/job/go/2011124/)** — Working Nomads, 2026-11-10
@@ -29,15 +33,12 @@
 - **[‎‎[FOR HIRE] Product Architect & Full Stack Dev | I design and build your SaaS from scratch ($20/hr or fixed)](https://www.reddit.com/r/forhire/comments/1xjja0k/for_hire_product_architect_full_stack_dev_i/)** — r/forhire, 2026-10-30
 - **[Endpoint Management & RMM Specialist (m/w/d) @ ADVANCED Systemhaus GmbH](https://www.arbeitnow.com/jobs/companies/advanced-systemhaus-gmbh/endpoint-management-rmm-specialist-hamburg-326264)** — Arbeitnow, 2026-10-30
 - **[Senior Magento Developer @ Lemon.io](https://www.workingnomads.com/job/go/1981017/)** — Working Nomads, 2026-10-29
-- **[Uber Driver with Electric Vehicle Needed for App Testing (France) @ Testlio](https://jobicy.com/jobs/157683-uber-driver-with-electric-vehicle-needed-for-app-testing-france)** — Jobicy, 2026-10-28
 - **[Senior Swift & SwiftUI Developer @ Lemon.io](https://www.workingnomads.com/job/go/1976189/)** — Working Nomads, 2026-10-27
 - **[Staff Software Engineer - Backend (CDI) @ Matera](https://www.arbeitnow.fr/jobs/companies/matera/staff-software-engineer-backend-cdi-paris-430263)** — Arbeitnow, 2026-10-25
 - **[Staff Security Engineer (CDI) @ Matera](https://www.arbeitnow.fr/jobs/companies/matera/staff-security-engineer-cdi-paris-69905)** — Arbeitnow, 2026-10-25
 - **[Senior DevOps Engineer @ Lemon.io](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557)** — RemoteOK, 2026-10-22
 - **[Senior Angular Developer @ Lemon.io](https://www.workingnomads.com/job/go/1960693/)** — Working Nomads, 2026-10-21
 - **[Senior DevOps Engineer @ Lemon.io](https://www.workingnomads.com/job/go/1958438/)** — Working Nomads, 2026-10-20
-- **[Mobile Engineer - React Native (Paris or Remote France) @ Alma](https://jobicy.com/jobs/155885-mobile-engineer-react-native-paris-or-remote-france)** — Jobicy, 2026-10-19
-- **[Senior Strategic Finance Manager @ DuckDuckGo](https://jobicy.com/jobs/155825-senior-strategic-finance-manager)** — Jobicy, 2026-10-19
 - **[Senior AI Engineer / Architect @ Lemon.io](https://www.workingnomads.com/job/go/1944801/)** — Working Nomads, 2026-10-15
 - **[Irash Tech | Business Development Manager (Freelance, Commission-only) | REMOTE (Worldwide) | Contract Irash Tech is a s](https://news.ycombinator.com/item?id=50068986)** — HN (Ask HN: Who is hiring? (October 2026)), 2026-10-13
 - **[Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, remote available) | Contract Sendery is a](https://news.ycombinator.com/item?id=50066343)** — HN (Ask HN: Who is hiring? (October 2026)), 2026-10-13
@@ -51,4 +52,3 @@
 - **[Content Reviewer United States - English-speaking @ TELUS Digital](https://www.workingnomads.com/job/go/1907058/)** — Working Nomads, 2026-10-01
 - **[**[FOR HIRE] Web Developer | React / Node.js / Next.js / NestJS](https://www.reddit.com/r/forhire/comments/1wus3ce/for_hire_web_developer_react_nodejs_nextjs_nestjs/)** — r/forhire, 2026-10-01
 - **[Content Reviewer - United States @ TELUS Digital](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144)** — Remotive, 2026-09-21
-- **[I am Feeling Lost in this New AI World](https://www.reddit.com/r/iOSProgramming/comments/1wbl7vk/i_am_feeling_lost_in_this_new_ai_world/)** — r/iOSProgramming, 2026-09-09
