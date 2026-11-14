@@ -1,4 +1,4 @@
-# iOS contract digest — 2026-11-13 14:49
+# iOS contract digest — 2026-11-14 13:46
 
 50 matching posting(s) (mobile + contract/freelance):
 
@@ -6,6 +6,8 @@
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Italian Multimedia Content Reviewer @ Welo Global](https://jobicy.com/jobs/162113-italian-multimedia-content-reviewer)** — Jobicy, 2026-11-14
+- **[CMO Partner Manager - Contract Manufacturing (all genders) @ Sunday Natural](https://www.arbeitnow.com/jobs/companies/sunday-natural/cmo-partner-manager-contract-manufacturing-all-genders-berlin-324967)** — Arbeitnow, 2026-11-14
 - **[Freelance Software Tester | Remote in Italy @ Testlio](https://jobicy.com/jobs/161767-freelance-software-tester-remote-in-italy)** — Jobicy, 2026-11-13
 - **[Freelance Software Tester | Remote in Germany @ Testlio](https://jobicy.com/jobs/161756-freelance-software-tester-remote-in-germany)** — Jobicy, 2026-11-13
 - **[Freelance Software Tester | Remote in Belgium @ Testlio](https://jobicy.com/jobs/161742-freelance-software-tester-remote-in-belgium)** — Jobicy, 2026-11-13
@@ -20,7 +22,6 @@
 - **[[Hiring] Senior Developer & Pentester for White-Box Security Assessment & Code Review (TypeScript, Next.js, React Native](https://www.reddit.com/r/forhire/comments/1xr0gdt/hiring_senior_developer_pentester_for_whitebox/)** — r/forhire, 2026-11-08
 - **[Hebrew Multimedia Content Reviewer (Part time) @ Welo Global](https://jobicy.com/jobs/159638-hebrew-multimedia-content-reviewer-part-time)** — Jobicy, 2026-11-07
 - **[Senior iOS Software Engineer - Brazil @ Housecall Pro](https://jobicy.com/jobs/159323-senior-ios-software-engineer-brazil)** — Jobicy, 2026-11-06
-- **[Compliance Lead - CMMC (NIST SP 800-171) @ Defense Unicorns](https://jobicy.com/jobs/159244-compliance-lead-cmmc-nist-sp-800-171)** — Jobicy, 2026-11-06
 - **[Senior Vue Developer @ Lemon.io](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688)** — RemoteOK, 2026-11-05
 - **[Content Reviewer - United States @ TELUS Digital](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166)** — Remotive, 2026-11-04
 - **[Location: Andalucía, Spain (CET)](https://news.ycombinator.com/item?id=50353980)** — HN (Ask HN: Who is hiring? (November 2026)), 2026-11-03
@@ -35,7 +36,6 @@
 - **[Senior Magento Developer @ Lemon.io](https://www.workingnomads.com/job/go/1981017/)** — Working Nomads, 2026-10-29
 - **[Senior Swift & SwiftUI Developer @ Lemon.io](https://www.workingnomads.com/job/go/1976189/)** — Working Nomads, 2026-10-27
 - **[Staff Software Engineer - Backend (CDI) @ Matera](https://www.arbeitnow.fr/jobs/companies/matera/staff-software-engineer-backend-cdi-paris-430263)** — Arbeitnow, 2026-10-25
-- **[Staff Security Engineer (CDI) @ Matera](https://www.arbeitnow.fr/jobs/companies/matera/staff-security-engineer-cdi-paris-69905)** — Arbeitnow, 2026-10-25
 - **[Senior DevOps Engineer @ Lemon.io](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557)** — RemoteOK, 2026-10-22
 - **[Senior Angular Developer @ Lemon.io](https://www.workingnomads.com/job/go/1960693/)** — Working Nomads, 2026-10-21
 - **[Senior DevOps Engineer @ Lemon.io](https://www.workingnomads.com/job/go/1958438/)** — Working Nomads, 2026-10-20
