@@ -1,4 +1,4 @@
-# iOS contract digest — 2026-11-14 13:46
+# iOS contract digest — 2026-11-15 14:14
 
 50 matching posting(s) (mobile + contract/freelance):
 
@@ -6,6 +6,7 @@
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[[hiring] Looking for 6 iPhone TestFlight Testers — Short Testing Assignments](https://www.reddit.com/r/forhire/comments/1xw36mw/hiring_looking_for_6_iphone_testflight_testers/)** — r/forhire, 2026-11-14
 - **[Italian Multimedia Content Reviewer @ Welo Global](https://jobicy.com/jobs/162113-italian-multimedia-content-reviewer)** — Jobicy, 2026-11-14
 - **[CMO Partner Manager - Contract Manufacturing (all genders) @ Sunday Natural](https://www.arbeitnow.com/jobs/companies/sunday-natural/cmo-partner-manager-contract-manufacturing-all-genders-berlin-324967)** — Arbeitnow, 2026-11-14
 - **[Freelance Software Tester | Remote in Italy @ Testlio](https://jobicy.com/jobs/161767-freelance-software-tester-remote-in-italy)** — Jobicy, 2026-11-13
@@ -50,5 +51,4 @@
 - **[AppTraction: Make App Store Connect make sense](https://www.reddit.com/r/iOSProgramming/comments/1wwr8dr/apptraction_make_app_store_connect_make_sense/)** — r/iOSProgramming, 2026-10-03
 - **[Human8e Ltd | Applied cryptographer, protocol review | REMOTE (worldwide) | Contract, fixed fee We're an early-stage UK ](https://news.ycombinator.com/item?id=49924575)** — HN (Ask HN: Who is hiring? (October 2026)), 2026-10-01
 - **[Content Reviewer United States - English-speaking @ TELUS Digital](https://www.workingnomads.com/job/go/1907058/)** — Working Nomads, 2026-10-01
-- **[**[FOR HIRE] Web Developer | React / Node.js / Next.js / NestJS](https://www.reddit.com/r/forhire/comments/1wus3ce/for_hire_web_developer_react_nodejs_nextjs_nestjs/)** — r/forhire, 2026-10-01
 - **[Content Reviewer - United States @ TELUS Digital](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091144)** — Remotive, 2026-09-21
