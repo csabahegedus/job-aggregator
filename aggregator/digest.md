@@ -1,4 +1,4 @@
-# iOS contract digest — 2026-11-17 16:22
+# iOS contract digest — 2026-11-18 15:55
 
 50 matching posting(s) (mobile + contract/freelance):
 
@@ -6,6 +6,8 @@
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Software Developer (m/w/d) @ freedos IT GmbH](https://www.arbeitnow.com/jobs/companies/freedos-it-gmbh/software-developer-karlsruhe-482349)** — Arbeitnow, 2026-11-18
+- **[Staff iOS Engineer - BeReal @ BeReal](https://www.arbeitnow.fr/jobs/companies/bereal/staff-ios-engineer-bereal-paris-310384)** — Arbeitnow, 2026-11-18
 - **[[Hiring] Remote TikTok Scriptwriter for wellness apps, students welcome, hourly pay](https://www.reddit.com/r/forhire/comments/1xxms17/hiring_remote_tiktok_scriptwriter_for_wellness/)** — r/forhire, 2026-11-16
 - **[[hiring] Looking for 6 iPhone TestFlight Testers — Short Testing Assignments](https://www.reddit.com/r/forhire/comments/1xw36mw/hiring_looking_for_6_iphone_testflight_testers/)** — r/forhire, 2026-11-14
 - **[Italian Multimedia Content Reviewer @ Welo Global](https://jobicy.com/jobs/162113-italian-multimedia-content-reviewer)** — Jobicy, 2026-11-14
@@ -34,10 +36,8 @@
 - **[Lead Mobile Engineer - React Native @ DiliTrust](https://www.arbeitnow.fr/jobs/companies/dilitrust/lead-mobile-engineer-react-native-paris-la-defense-226541)** — Arbeitnow, 2026-11-01
 - **[[Hiring] Utility Operations Application Specialist (Contract)- Paramus, NJ](https://www.reddit.com/r/forhire/comments/1xjjv0p/hiring_utility_operations_application_specialist/)** — r/forhire, 2026-10-30
 - **[‎‎[FOR HIRE] Product Architect & Full Stack Dev | I design and build your SaaS from scratch ($20/hr or fixed)](https://www.reddit.com/r/forhire/comments/1xjja0k/for_hire_product_architect_full_stack_dev_i/)** — r/forhire, 2026-10-30
-- **[Endpoint Management & RMM Specialist (m/w/d) @ ADVANCED Systemhaus GmbH](https://www.arbeitnow.com/jobs/companies/advanced-systemhaus-gmbh/endpoint-management-rmm-specialist-hamburg-326264)** — Arbeitnow, 2026-10-30
 - **[Senior Magento Developer @ Lemon.io](https://www.workingnomads.com/job/go/1981017/)** — Working Nomads, 2026-10-29
 - **[Senior Swift & SwiftUI Developer @ Lemon.io](https://www.workingnomads.com/job/go/1976189/)** — Working Nomads, 2026-10-27
-- **[Staff Software Engineer - Backend (CDI) @ Matera](https://www.arbeitnow.fr/jobs/companies/matera/staff-software-engineer-backend-cdi-paris-430263)** — Arbeitnow, 2026-10-25
 - **[Senior DevOps Engineer @ Lemon.io](https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-lemon-io-1137557)** — RemoteOK, 2026-10-22
 - **[Senior Angular Developer @ Lemon.io](https://www.workingnomads.com/job/go/1960693/)** — Working Nomads, 2026-10-21
 - **[Senior DevOps Engineer @ Lemon.io](https://www.workingnomads.com/job/go/1958438/)** — Working Nomads, 2026-10-20
