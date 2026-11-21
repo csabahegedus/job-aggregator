@@ -1,4 +1,4 @@
-# iOS contract digest — 2026-11-20 15:42
+# iOS contract digest — 2026-11-21 14:52
 
 50 matching posting(s) (mobile + contract/freelance):
 
@@ -9,6 +9,7 @@
 - **[Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8)** — WeWorkRemotely, Thu, 19 No
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
 - **[Platform QA Chapter Lead (all genders) @ JustPlay GmbH](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/platform-qa-chapter-lead-all-genders-berlin-141151)** — Arbeitnow, 2026-11-20
+- **[Content Reviewer - United States @ TELUS Digital](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177)** — Remotive, 2026-11-19
 - **[Content Reviewer - United States @ TELUS Digital](https://www.workingnomads.com/job/go/2034803/)** — Working Nomads, 2026-11-19
 - **[Senior Data Engineer @ Lemon.io](https://www.workingnomads.com/job/go/2032572/)** — Working Nomads, 2026-11-18
 - **[Software Developer (m/w/d) @ freedos IT GmbH](https://www.arbeitnow.com/jobs/companies/freedos-it-gmbh/software-developer-karlsruhe-482349)** — Arbeitnow, 2026-11-18
@@ -51,4 +52,3 @@
 - **[[Hiring] Freelance Social Media Manager for iOS Travel Apps ($15–$35/hr)](https://www.reddit.com/r/forhire/comments/1x0bnle/hiring_freelance_social_media_manager_for_ios/)** — r/forhire, 2026-10-07
 - **[[HIRING] UGC creators — CPM model, make videos in one proven format [under 60 sec per video]](https://www.reddit.com/r/forhire/comments/1x00w6j/hiring_ugc_creators_cpm_model_make_videos_in_one/)** — r/forhire, 2026-10-07
 - **[Pairio ( https://pairio.app ) | Senior Swift Engineer | REMOTE (Europe) | 32-40h/week | Employee or freelance | $65k-$85](https://news.ycombinator.com/item?id=49975827)** — HN (Ask HN: Who is hiring? (October 2026)), 2026-10-06
-- **[AppTraction: Make App Store Connect make sense](https://www.reddit.com/r/iOSProgramming/comments/1wwr8dr/apptraction_make_app_store_connect_make_sense/)** — r/iOSProgramming, 2026-10-03
