@@ -1,13 +1,15 @@
-# iOS contract digest — 2026-11-24 18:05
+# iOS contract digest — 2026-11-25 17:31
 
 50 matching posting(s) (mobile + contract/freelance):
 
+- **[Chemin: Audio Recording - Malay Speaker (Short-Term Project)](https://weworkremotely.com/remote-jobs/chemin-audio-recording-malay-speaker-short-term-project)** — WeWorkRemotely, Wed, 25 No
 - **[Lemon.io: Senior Vue Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-vue-developer-1)** — WeWorkRemotely, Wed, 21 Oc
 - **[Khibraty: Lead Full-stack Developer (Full-Time Remote Contractor)](https://weworkremotely.com/remote-jobs/khibraty-lead-full-stack-developer-full-time-remote-contractor)** — WeWorkRemotely, Tue, 30 Ju — Lead Full-Stack Developer role for a React Native/Expo mobile app with Firebase backend. Full-time remote contractor position based in Jordan. Requires architectural leadership, full-stack development across mobile/backend/web, and close collaboration with founders. Not native iOS focused (React Native instead).
 - **[Bitovi: Backend / Platform Developer Consultant (Temporal & Kubernetes)](https://weworkremotely.com/remote-jobs/bitovi-backend-platform-developer-consultant-temporal-kubernetes)** — WeWorkRemotely, Thu, 29 Oc
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8)** — WeWorkRemotely, Thu, 19 No
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Développeur Full-Stack (Node.js / React / Flutter) @ OHana Entreprise](https://www.arbeitnow.fr/jobs/companies/ohana-entreprise/developpeur-full-stack-nodejs-react-flutter-paris-474619)** — Arbeitnow, 2026-11-25
 - **[Platform QA Chapter Lead (all genders) @ JustPlay GmbH](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/platform-qa-chapter-lead-all-genders-berlin-141151)** — Arbeitnow, 2026-11-20
 - **[Content Reviewer - United States @ TELUS Digital](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177)** — Remotive, 2026-11-19
 - **[Content Reviewer - United States @ TELUS Digital](https://www.workingnomads.com/job/go/2034803/)** — Working Nomads, 2026-11-19
@@ -38,7 +40,6 @@
 - **[Product Owner / Business Analyst / AMOA (H/F) @ Valsoft Corp](https://www.arbeitnow.fr/jobs/companies/valsoft-corp/product-owner-business-analyst-amoa-h-f-nantes-349046)** — Arbeitnow, 2026-11-03
 - **[i2nd Level Supporter:in - E-banking @ Coopers Group AG](https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/i2nd-level-supporterin-e-banking-zurich-281806)** — Arbeitnow, 2026-11-03
 - **[Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, US/Canada remote available) | Contract Se](https://news.ycombinator.com/item?id=50345770)** — HN (Ask HN: Who is hiring? (November 2026)), 2026-11-02
-- **[IT Supporter:in - E-banking @ Coopers Group AG](https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/it-supporterin-e-banking-zurich-100653)** — Arbeitnow, 2026-11-02
 - **[[Hiring] Utility Operations Application Specialist (Contract)- Paramus, NJ](https://www.reddit.com/r/forhire/comments/1xjjv0p/hiring_utility_operations_application_specialist/)** — r/forhire, 2026-10-30
 - **[‎‎[FOR HIRE] Product Architect & Full Stack Dev | I design and build your SaaS from scratch ($20/hr or fixed)](https://www.reddit.com/r/forhire/comments/1xjja0k/for_hire_product_architect_full_stack_dev_i/)** — r/forhire, 2026-10-30
 - **[Senior Magento Developer @ Lemon.io](https://www.workingnomads.com/job/go/1981017/)** — Working Nomads, 2026-10-29
@@ -51,4 +52,3 @@
 - **[[Hiring] Certified Cybersecurity Freelancer / Penetration Tester for Web App Pentest & Compliance Attestation ($500 - $1](https://www.reddit.com/r/forhire/comments/1x1gmzx/hiring_certified_cybersecurity_freelancer/)** — r/forhire, 2026-10-09
 - **[[Hiring] Freelance Social Media Manager for iOS Travel Apps ($15–$35/hr)](https://www.reddit.com/r/forhire/comments/1x0bnle/hiring_freelance_social_media_manager_for_ios/)** — r/forhire, 2026-10-07
 - **[[HIRING] UGC creators — CPM model, make videos in one proven format [under 60 sec per video]](https://www.reddit.com/r/forhire/comments/1x00w6j/hiring_ugc_creators_cpm_model_make_videos_in_one/)** — r/forhire, 2026-10-07
-- **[Pairio ( https://pairio.app ) | Senior Swift Engineer | REMOTE (Europe) | 32-40h/week | Employee or freelance | $65k-$85](https://news.ycombinator.com/item?id=49975827)** — HN (Ask HN: Who is hiring? (October 2026)), 2026-10-06
