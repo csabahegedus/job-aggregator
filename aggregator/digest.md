@@ -1,4 +1,4 @@
-# iOS contract digest — 2026-11-27 16:56
+# iOS contract digest — 2026-11-28 15:46
 
 50 matching posting(s) (mobile + contract/freelance):
 
@@ -9,6 +9,8 @@
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer)** — WeWorkRemotely, Thu, 25 Ju — Lemon.io is a marketplace connecting senior React Native developers with remote contract/freelance opportunities at US and European startups. Requires 4+ years software development experience with specific React Native, React, and/or Node.js requirements depending on role. Offers flexible scheduling, async communication options, direct client communication, and no micromanagement. (Varies by seniority level, skills and experience)
 - **[Lemon.io: Senior React Full-stack Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-8)** — WeWorkRemotely, Thu, 19 No
 - **[Lemon.io: Senior React Native Developer](https://weworkremotely.com/remote-jobs/lemon-io-senior-react-native-developer-1)** — WeWorkRemotely, Fri, 04 Se — Lemon.io is a marketplace connecting senior React Native developers with startups for remote contract work. Requires 4+ years software development experience with React Native (2-4+ years depending on role combination). Flexible schedule, async communication possible, direct client contact. Pay varies by experience level. (Depends on seniority level, skills and experience)
+- **[Implementation Specialist @ Hawk](https://www.arbeitnow.com/jobs/companies/hawk/implementation-specialist-munich-114896)** — Arbeitnow, 2026-11-28
+- **[Implementation Specialist @ Hawk](https://www.arbeitnow.co.uk/jobs/companies/hawk/implementation-specialist-london-80427)** — Arbeitnow, 2026-11-28
 - **[Développeur Full-Stack (Node.js / React / Flutter) @ OHana Entreprise](https://www.arbeitnow.fr/jobs/companies/ohana-entreprise/developpeur-full-stack-nodejs-react-flutter-paris-474619)** — Arbeitnow, 2026-11-25
 - **[Platform QA Chapter Lead (all genders) @ JustPlay GmbH](https://www.arbeitnow.com/jobs/companies/justplay-gmbh/platform-qa-chapter-lead-all-genders-berlin-141151)** — Arbeitnow, 2026-11-20
 - **[Content Reviewer - United States @ TELUS Digital](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091177)** — Remotive, 2026-11-19
@@ -37,8 +39,6 @@
 - **[Senior Vue Developer @ Lemon.io](https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688)** — RemoteOK, 2026-11-05
 - **[Content Reviewer - United States @ TELUS Digital](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091166)** — Remotive, 2026-11-04
 - **[Location: Andalucía, Spain (CET)](https://news.ycombinator.com/item?id=50353980)** — HN (Ask HN: Who is hiring? (November 2026)), 2026-11-03
-- **[Product Owner / Business Analyst / AMOA (H/F) @ Valsoft Corp](https://www.arbeitnow.fr/jobs/companies/valsoft-corp/product-owner-business-analyst-amoa-h-f-nantes-349046)** — Arbeitnow, 2026-11-03
-- **[i2nd Level Supporter:in - E-banking @ Coopers Group AG](https://www.arbeitnow.ch/jobs/companies/coopers-group-ag/i2nd-level-supporterin-e-banking-zurich-281806)** — Arbeitnow, 2026-11-03
 - **[Sendery ( https://sendery.co ) | iOS Engineer | Tokyo, Japan (no visa support, US/Canada remote available) | Contract Se](https://news.ycombinator.com/item?id=50345770)** — HN (Ask HN: Who is hiring? (November 2026)), 2026-11-02
 - **[[Hiring] Utility Operations Application Specialist (Contract)- Paramus, NJ](https://www.reddit.com/r/forhire/comments/1xjjv0p/hiring_utility_operations_application_specialist/)** — r/forhire, 2026-10-30
 - **[‎‎[FOR HIRE] Product Architect & Full Stack Dev | I design and build your SaaS from scratch ($20/hr or fixed)](https://www.reddit.com/r/forhire/comments/1xjja0k/for_hire_product_architect_full_stack_dev_i/)** — r/forhire, 2026-10-30
